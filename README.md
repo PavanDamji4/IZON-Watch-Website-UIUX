@@ -30,7 +30,7 @@ The platform reflects IZON's identity through elegant visuals, minimalistic layo
 ## 📄 Project Documentation
 
 The complete project report is available in this repository under:  
-`UI_UX Microproject.pdf`
+`[UI_UX Microproject.pdf](https://github.com/PavanDamji4/IZON-Watch-Website-UIUX/blob/main/UI_UX%20Microproject.pdf)`
 
 ---
 

@@ -29,9 +29,8 @@ The platform reflects IZON's identity through elegant visuals, minimalistic layo
 
 ## 📄 Project Documentation
 
-The complete project report is available in this repository under:  
-`[UI_UX Microproject.pdf](https://github.com/PavanDamji4/IZON-Watch-Website-UIUX/blob/main/UI_UX%20Microproject.pdf)`
-
+The complete project report is available here:  
+[Download the Documentation (PDF)](https://github.com/PavanDamji4/IZON-Watch-Website-UIUX/raw/main/UI_UX%20Microproject.pdf)
 ---
 
 ## 💡 Target Audience

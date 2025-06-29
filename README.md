@@ -23,7 +23,7 @@ The platform reflects IZON's identity through elegant visuals, minimalistic layo
 ## 🔗 Design Access
 
 **View the UI/UX Design:**  
-[Click here to view the Figma/Adobe XD Prototype]([#](https://www.figma.com/proto/hBqbnuNdTCgjFSiC6O1HbO/Microproject-watches?node-id=6-6&starting-point-node-id=6%3A6&scaling=scale-down-width&content-scaling=fixed)) 
+[Click here to view the Figma/Adobe XD Prototype] ([#](https://www.figma.com/proto/hBqbnuNdTCgjFSiC6O1HbO/Microproject-watches?node-id=6-6&starting-point-node-id=6%3A6&scaling=scale-down-width&content-scaling=fixed)) 
 
 ---
 
